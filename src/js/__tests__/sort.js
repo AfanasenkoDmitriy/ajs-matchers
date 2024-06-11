@@ -1,4 +1,4 @@
-import sortByHealth from "../sort";
+import sortByHealth from "../index";
 
 test("test sortByHealth function", () => {
   const users = [
